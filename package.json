@@ -25,7 +25,7 @@
     "husky": "8.0.3",
     "lint-staged": "16.0.0",
     "lodash": "4.17.21",
-    "prettier": "3.0.3"
+    "prettier": "3.3.3"
   },
   "lint-staged": {
     "src/**/*.{ts}": [
